@@ -41,7 +41,7 @@ Notes:
 #class ResearcherAgents:
 #    def __init__(self):
 #        self.llm = ChatGroq(
-#            api_key=os.getenv("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"),
+#            api_key=os.getenv("yourAPIKey"),
 #            model="llama3-70b-8192"
 #        )
 
